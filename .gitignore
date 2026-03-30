@@ -1,0 +1,16 @@
+# API Keys - never push these!
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Video outputs
+*.mp4
+audio/
+highlights/
+frames/
+
+# YOLO model
+*.pt
