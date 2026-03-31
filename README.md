@@ -10,6 +10,15 @@
 
 > Upload any football video → Get AI commentary, player tracking & highlights instantly!
 
+### 🖥️ Screenshots
+
+![Hero Section](screenshots/Screenshot_1.png)
+![Video Upload](screenshots/Screenshot_2.png)
+![Processing](screenshots/Screenshot_3.png)
+![Results](screenshots/Screenshot_4.png)
+![Commentary](screenshots/Screenshot_5.png)
+![Highlights](screenshots/Screenshot_6.png)
+
 ---
 
 ## ✨ Features
